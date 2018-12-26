@@ -1,0 +1,2 @@
+# SecretDiary
+This project is built using php, mysql and bootstrap. Users can register their accounts on the secret diary home page using their email and password. The user then can start writing their thoughts in the provided text area. The content written is automatically saved to the database. When the user logs in back, the content previously written is displayed on the textarea and they can resume their writing.
